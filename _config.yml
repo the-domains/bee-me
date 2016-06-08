@@ -1,5 +1,6 @@
-layout_spectrum: 0.9856891536619514
 typography_spectrum: 0.062426303047686815
+content_rating:
+  adult: false
 color:
   brandStrength: 0.7706003692001104
   lightness: 0.9237290127202868
@@ -11,6 +12,9 @@ color:
     - '#FFD34E'
     - '#DB9E36'
     - '#BD4932'
-name: Bee Me
+layout_spectrum: 0.9856891536619514
 author:
   name: Ryan Fickling
+name: Bee Me
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/468098f3-8989-42c5-9200-854058b1904c.jpg'
+title: Bee Everything
