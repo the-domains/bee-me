@@ -4,8 +4,15 @@
         <description><![CDATA[Bee the World]]></description>
         <link>https://thegrid.ai/bee-me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 23:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 15:42:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bee-me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nurturing Bees, Soils with Buckwheat]]></title>
+            <description><![CDATA[<article><h1>Nurturing Bees, Soils with Buckwheat</h1><p>By William Scheick Contributing Editor The communal complexity and environmental essentialness of bees have always fascinated me. As the number of honey and native bees has disturbingly dwindled during recent years as a result of diseases, various "cides" and habitat losses, my interest in them has only deepened (see "Beeing in the Garden," Texas Gardener, March-April 2008).</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/703a953bcf76a0f81f92216847144395/noop.jpg?input=http%3A%2F%2Fwww.texasgardener.com%2Fpastissues%2Fjanfeb15%2FBuckwheatBees.jpg"></article>]]></description>
+            <link>http://www.texasgardener.com/pastissues/janfeb15/BuckwheatBees.html</link>
+            <guid isPermaLink="false">0426e0aa-039b-4fc5-b5e4-1238699cd5ff</guid>
+            <pubDate>Thu, 11 Aug 2016 15:42:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf6d3fb4-78a0-4f7f-990c-34425ffcdf05.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.trueactivist.com/37-million-bees-instantly-dropped-dead-after-farms-started-spraying-neonicotinoids-on-gmo-crops/</link>
             <guid isPermaLink="false">6adf0417-e4fe-4074-b62c-85093a046fb2</guid>
             <pubDate>Mon, 20 Jun 2016 22:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[France To Ban All Pesticides Amid Worldwide Bee Death Epidemic]]></title>
-            <description><![CDATA[<article><h1>France To Ban All Pesticides Amid Worldwide Bee Death Epidemic</h1><p>France have announced plans to completely ban the use of pesticides due to unusually high bee deaths worldwide, which French authorities claims pesticides are responsible for. Lawmakers have approved plans to ban some of the most popular pesticide products on the market, going above and beyond European Union requirements.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2c3e24bb3a7a1692212058bda0e50bce/noop.jpeg?input=http%3A%2F%2Fwakingtimesmedia.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fpesticides.jpeg"></article>]]></description>
-            <link>http://wakingtimesmedia.com/france-ban-pesticides-amid-worldwide-bee-death-epidemic/</link>
-            <guid isPermaLink="false">b5f1f513-ed49-45f7-bee7-6430e18ec01a</guid>
-            <pubDate>Sat, 18 Jun 2016 16:22:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
