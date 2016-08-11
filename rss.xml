@@ -4,7 +4,7 @@
         <description><![CDATA[Bee the World]]></description>
         <link>https://thegrid.ai/bee-me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 15:42:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 15:43:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bee-me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Nurturing Bees, Soils with Buckwheat]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.texasgardener.com/pastissues/janfeb15/BuckwheatBees.html</link>
             <guid isPermaLink="false">0426e0aa-039b-4fc5-b5e4-1238699cd5ff</guid>
             <pubDate>Thu, 11 Aug 2016 15:42:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Royal Jelly Isn't What Makes a Queen Bee a Queen Bee]]></title>
+            <description><![CDATA[<article><h1>Royal Jelly Isn't What Makes a Queen Bee a Queen Bee</h1><p>For decades, scientists thought an excess of something special, a substance called royal jelly, elevated a regular honey bee larva to a queen. New research suggests we had it backward: It's what future queens aren't fed that matters. Royal jelly, which also is called "bee milk," looks like white snot.</p><img src="http://www.wired.com/wp-content/uploads/2015/08/GettyImages-71666555-1200x630.jpg"></article>]]></description>
+            <link>http://www.wired.com/2015/09/royal-jelly-isnt-makes-queen-bee-queen-bee/</link>
+            <guid isPermaLink="false">e5010410-a36d-47e0-a9cb-c428ea106949</guid>
+            <pubDate>Thu, 11 Aug 2016 15:42:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7508ca6-d669-40ed-b07e-0cd5a2aad219.jpg</link>
             <guid isPermaLink="false">32004f73-79d2-4ad6-afbb-0b2f7c5b8dc6</guid>
             <pubDate>Fri, 24 Jun 2016 16:15:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[37 Million Bees Instantly Dropped Dead After Farms Started Spraying Neonicotinoids On GMO Crops]]></title>
-            <description><![CDATA[<article><h1>37 Million Bees Instantly Dropped Dead After Farms Started Spraying Neonicotinoids On GMO Crops</h1><p>It's no secret that bees are extremely important for the health of the environment and for humans, although this fact is not well-known and not taken seriously enough. Bees are estimated to pollinate one-sixth of all flowering plants in the world and are responsible for the continued success of about 400 agricultural plants.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7d540effc07914d42e1b74cc75c87e73/noop.jpg?input=http%3A%2F%2Fta1.universaltelegra.netdna-cdn.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fbees1.jpg"></article>]]></description>
-            <link>http://www.trueactivist.com/37-million-bees-instantly-dropped-dead-after-farms-started-spraying-neonicotinoids-on-gmo-crops/</link>
-            <guid isPermaLink="false">6adf0417-e4fe-4074-b62c-85093a046fb2</guid>
-            <pubDate>Mon, 20 Jun 2016 22:25:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
