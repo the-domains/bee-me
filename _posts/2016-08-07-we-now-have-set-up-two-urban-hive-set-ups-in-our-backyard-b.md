@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-11T15:32:45.084Z'
+datePublished: '2016-08-11T15:49:31.491Z'
 sourcePath: >-
   _posts/2016-08-07-we-now-have-set-up-two-urban-hive-set-ups-in-our-backyard-b.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-11T15:32:44.756Z'
-title: ''
+dateModified: '2016-08-11T15:49:31.191Z'
+title: It Has Begun
 publisher: {}
 description: >-
   We now have set up two urban hive set-ups in our backyard. Being late in the
@@ -17,6 +17,8 @@ starred: false
 _type: Blurb
 
 ---
+# It Has Begun
+
 We now have set up two urban hive set-ups in our backyard. Being late in the season we started off by buying two separate colonies with 10 full frames each. Each hive was inspected for healthy comb, brood, and honey. Both hives have distinct personalities.
 
 The Wood hive is full of workers. Begins bearding early evening. This hive clearly is warmer due to more bees and has a screened top and bottom board.
