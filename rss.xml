@@ -4,11 +4,18 @@
         <description><![CDATA[Bee the World]]></description>
         <link>https://thegrid.ai/bee-me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 15:43:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 15:47:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bee-me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[The Hive at Kew Gardens]]></title>
+            <description><![CDATA[<article><h1>The Hive at Kew Gardens</h1><p>Science and beauty come together at Kew this summer, as we explore the journey of the British bee through UK innovation and design. An open-air structure standing at 17 metres tall and weighing in at 40 tonnes, The Hive encapsulates the story of the honey bee and the important role of pollination in feeding the planet, through an immersive sound and visual experience.</p></article>]]></description>
+            <link>https://youtu.be/yyv9zqML8-M</link>
+            <guid isPermaLink="false">87db0fbc-426f-4b5b-a8c5-ec26db500698</guid>
+            <pubDate>Thu, 11 Aug 2016 15:46:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Secret life of bees: personalities of insects revealed for first time in lifelong study]]></title>
-            <description><![CDATA[<article><h1>Secret life of bees: personalities of insects revealed for first time in lifelong study</h1><p>Dr James Makinson, one of the researchers from the School of Biological and Chemical Sciences at Queen Mary, said: "One bee was something of a lifelong vagabond, never settling down on a single patch of flowers.</p><img src="http://www.telegraph.co.uk/content/dam/science/2016/08/04/05e3a513-4e9c-45b5-a301-ebad04be8d65-xlarge_trans++rXQPXGvM58CJoUBPwmOnP0bgHFEZVI1Pljic_pW9c90.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Secret life of bees: personalities of insects revealed for first time in lifelong study</h1><p>Dr James Makinson, one of the researchers from the School of Biological and Chemical Sciences at Queen Mary, said: "One bee was something of a lifelong vagabond, never settling down on a single patch of flowers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6ece9d49bf7c1413e2a09a9b2375d07b/noop.jpg?input=http%3A%2F%2Fwww.telegraph.co.uk%2Fcontent%2Fdam%2Fscience%2F2016%2F08%2F04%2F05e3a513-4e9c-45b5-a301-ebad04be8d65-xlarge_trans%2B%2BrXQPXGvM58CJoUBPwmOnP0bgHFEZVI1Pljic_pW9c90.jpg"></article>]]></description>
             <link>http://www.telegraph.co.uk/science/2016/08/04/secret-life-of-bees-personalities-of-insects-revealed-for-first/</link>
             <guid isPermaLink="false">81e1dbfb-88da-48b4-8463-d861ff22d4da</guid>
             <pubDate>Thu, 11 Aug 2016 15:42:43 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.naturalbeekeepingtrust.org/bee-centred-vs-conventional</link>
             <guid isPermaLink="false">0ecb1eb9-8b53-4a28-b900-925f4ffdc62b</guid>
             <pubDate>Tue, 12 Jul 2016 15:56:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cheap Beekeeping]]></title>
-            <description><![CDATA[<article><h1>Cheap Beekeeping</h1><p>As mentioned in our initial equipment post, a real cheap way to get started it so spend $12 on plywood and $20 or so on frames and build yourself some 5-frame nucs. Here is a video going over the assembly of the "Easy 5-frame Nuc".</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ca82d62c316fbf27162ac6daa9eb888e/noop.jpg?input=https%3A%2F%2Fcheapbeekeeping.files.wordpress.com%2F2011%2F05%2Fnuc-cut-up-plans.jpg"></article>]]></description>
-            <link>https://cheapbeekeeping.wordpress.com/page/2/</link>
-            <guid isPermaLink="false">ed7de7ed-a300-4757-ac60-9ab86efc3b9f</guid>
-            <pubDate>Sun, 26 Jun 2016 19:45:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
